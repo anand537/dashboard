@@ -59,19 +59,9 @@ contributions.
 -   Expansion in **Asia & South America** can drive future growth.
 
 ------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-    ├── data/                  # Raw and processed data files
-    ├── dashboard/             # Power BI / dashboard files
-    ├── images/                # Screenshots of dashboard
-    ├── README.md              # Project documentation
-
-------------------------------------------------------------------------
-
 ## 🖼 Dashboard Preview
 
-![Amazon Global Sales Dashboard](images/amazon_dashboard.png)
+![Amazon Global Sales Dashboard](images/amazon dashboard.png)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +81,3 @@ Contributions are welcome!\
 - Submit a pull request
 
 ------------------------------------------------------------------------
-
-## 📜 License
-
-This project is licensed under the MIT License.
