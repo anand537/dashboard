@@ -29,19 +29,22 @@
 
 ---
 
-## 📊 Dashboards  
+## 📊 Dashboards 
 
-### 1. **Summary Insights**  
-![Summary Insights](./insights.png)  
+### 1. **Retail Intelligence Branding**  
+![Branding](./page1.png) 
 
-### 2. **Revenue & Market Performance**  
-![Revenue Dashboard](./page%202.png)  
 
-### 3. **Profitability & Shipping Delays**  
+### 2. **Profitability & Shipping Delays**  
 ![Profit Dashboard](./page%203.png)  
 
-### 4. **Retail Intelligence Branding**  
-![Branding](./page1.png)  
+### 3. **Revenue & Market Performance**  
+![Revenue Dashboard](./page%202.png)  
+
+
+### 4. **Summary Insights**  
+![Summary Insights](./insights.png)  
+
 
 ---
 
