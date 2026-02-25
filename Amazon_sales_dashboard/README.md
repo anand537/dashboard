@@ -1,4 +1,4 @@
-# 📊 Amazon Global Sales Dashboard
+#  Amazon Global Sales Dashboard
 
 This repository contains an **interactive dashboard** that visualizes
 Amazon's **global sales performance** across different years, customer
@@ -8,7 +8,7 @@ contributions.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   **Sales Projection:** 2.26M units\
 -   **Product Units:** 3,022\
@@ -40,7 +40,7 @@ contributions.
 
 ------------------------------------------------------------------------
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 -   **Visualization Tool:** Power BI (or any BI tool used)\
 -   **Data Source:** Amazon global sales dataset (segmented by year,
@@ -49,7 +49,7 @@ contributions.
 
 ------------------------------------------------------------------------
 
-## 📈 Key Takeaways
+## Key Takeaways
 
 -   Sales are **consumer-driven** (52%).\
 -   **Corporate segment** has growth potential.\
@@ -59,13 +59,13 @@ contributions.
 -   Expansion in **Asia & South America** can drive future growth.
 
 ------------------------------------------------------------------------
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ![Amazon Global Sales Dashboard](images/amazon dashboard.png)
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
+## Future Improvements
 
 -   Automate data refresh using APIs.\
 -   Add predictive analytics for future sales.\
@@ -73,11 +73,5 @@ contributions.
 
 ------------------------------------------------------------------------
 
-## 🤝 Contributing
-
-Contributions are welcome!\
-- Fork the repo\
-- Create a feature branch\
-- Submit a pull request
 
 ------------------------------------------------------------------------

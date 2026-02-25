@@ -1,6 +1,6 @@
 # Retail Intelligence Hub  
 
-📊 **Retail Intelligence Hub** is a data-driven dashboard project designed to analyze global retail performance, customer segmentation, shipping delays, and profitability trends. It provides actionable insights to improve revenue, margins, and customer satisfaction.  
+**Retail Intelligence Hub** is a data-driven dashboard project designed to analyze global retail performance, customer segmentation, shipping delays, and profitability trends. It provides actionable insights to improve revenue, margins, and customer satisfaction.  
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 Dashboards 
+## Dashboards 
 
 ### 1. **Retail Intelligence Branding**  
 ![Branding](./page1.png) 
