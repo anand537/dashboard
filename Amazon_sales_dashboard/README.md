@@ -61,7 +61,7 @@ contributions.
 ------------------------------------------------------------------------
 ## Dashboard Preview
 
-![Amazon Global Sales Dashboard](images/amazon dashboard.png)
+![Amazon Global Sales Dashboard](amazon dashboard.png)
 
 ------------------------------------------------------------------------
 
